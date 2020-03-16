@@ -4,12 +4,12 @@ A website for a beach hostel service. PraiaRisort is a one page that provides th
 ## Previews
 You can have a preview here: https://felypeganzert.github.io/PraiaRisort/index.html
 
-##Coding Languages and Styles
+## Coding Languages and Styles
 This Website Project was built using:
 HTML, CSS (Display Flex, etc), JavaScript
 
-##Screenshots
-###Landing Page
+## Screenshots
+### Landing Page
  ![](/img/web-praia-risort.png)
  
  ### Mobile Responsive
